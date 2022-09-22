@@ -35,14 +35,7 @@ This was a collaborative project made by 5 members Executed in 5 days.
 
   ![Landing Page](https://i.postimg.cc/mrKnNPK2/Screenshot-404.png)
 
-- *Payment Page*
 
-  ![Landing Page](https://i.postimg.cc/KctYTLCj/Screenshot-402.png)
-
-
-- *All Product Page*
-
-  ![Landing Page](https://i.postimg.cc/LX2mBQcs/Screenshot-398.png)
 
 ---
 
